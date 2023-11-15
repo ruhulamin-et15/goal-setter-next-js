@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/completed-task/page": "app/completed-task/page.js",
+  "/setgoals/page": "app/setgoals/page.js",
+  "/contactus/page": "app/contactus/page.js",
+  "/articles/page": "app/articles/page.js"
+}
